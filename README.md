@@ -5,7 +5,7 @@
 <h3 align="center">💻 Fullstack Web Developer | Python • JavaScript</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Building+Real+World+Projects;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Building+Real+World+Projects;Backend+%2B+Frontend+Systems" />
 </p>
 
 ---
@@ -32,15 +32,18 @@
 - Node.js (Express)  
 
 #### 🗄️ Database
-- CSV (custom system)  
-- MongoDB (learning)  
+- MongoDB  
+- MySQL  
+- SQL (basic → advanced queries)  
+- XAMPP (Apache + MySQL local server)  
+- CSV (custom storage system)  
 
 ---
 
 ### 🧩 Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,python,html,css,nodejs" />
+  <img src="https://skillicons.dev/icons?i=js,python,html,css,nodejs,mongodb,mysql" />
 </p>
 
 ---
@@ -49,6 +52,7 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+  <img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" width="50"/>
 </p>
 
 ---
@@ -65,7 +69,7 @@
 ### 📬 Contact
 
 <p align="left">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/HuyPhan68080">
     <img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white&style=for-the-badge"/>
   </a>
 </p>
