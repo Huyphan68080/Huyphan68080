@@ -39,18 +39,10 @@
 
 ---
 
-### 🧩 Programming Languages
+### 🧩 Languages & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python" />
-</p>
-
----
-
-### ⚛️ Frameworks & Libraries
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,python,html,css,nodejs,mongodb,mysql" />
 </p>
 
 ---
