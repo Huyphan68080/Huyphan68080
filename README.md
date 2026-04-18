@@ -33,23 +33,29 @@
 - Node.js (Express)  
 
 #### 🗄️ Database
-- MongoDB  
-- MySQL  
+- MongoDB (NoSQL)  
+- MySQL (Relational Database)  
 - SQL  
-- XAMPP  
-- CSV  
 
 ---
 
-### 🧩 Languages
+### 🧩 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,python,html,css,nodejs,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python" />
 </p>
 
 ---
 
-### 🛠️ Tools & Technologies
+### ⚛️ Frameworks & Libraries
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind" />
+</p>
+
+---
+
+### 🛠️ Tools & Environment
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
@@ -70,7 +76,11 @@
 ### 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=HuyPhan68080&theme=radical&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=HuyPhan68080&theme=radical&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HuyPhan68080&theme=react-dark"/>
 </p>
 
 ---
@@ -92,5 +102,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=HuyPhan68080&theme=radical&no-frame=true&margin-w=10"/>
 </p>
