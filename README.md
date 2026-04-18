@@ -4,38 +4,26 @@
 
 <h3 align="center">💻 Fullstack Web Developer | Python • JavaScript</h3>
 
-<div>
-  <img align="right" src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="260"/>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Building+Real+World+Projects;Always+Learning+New+Things" />
+</p>
 
 ---
 
 ### 🚀 About Me
 
-Motivated Fullstack Developer with hands-on experience building real-world web applications.  
-
-I focus on developing **scalable systems, clean UI, and efficient backend logic** using modern technologies.
-
-- ⚡ Build full systems: frontend + backend + data  
-- 🔐 Authentication (Login/Register, Role-based)  
-- 🛒 E-commerce (Cart, Checkout, Order History)  
-- 📈 Continuously improving & building real projects  
-
----
-
-### 🌐 Portfolio & Projects
-
-- 🛒 Fruit E-commerce Website (Cart, Checkout, User System)  
-- 🔐 Authentication System (Admin / User roles)  
-- 📦 Product Management Dashboard  
-- 🎨 UI Animation & Interactive Web Projects  
+- 🔥 Passionate about building real-world web applications  
+- ⚡ Strong in both frontend & backend development  
+- 🛒 Developing E-commerce systems (cart, checkout, user system)  
+- 🔐 Authentication & role-based systems (admin / user)  
+- 📈 Continuously learning and improving  
 
 ---
 
 ### 🧠 Tech Stack
 
 #### 💻 Frontend
-- HTML5, CSS3, JavaScript  
+- HTML5 • CSS3 • JavaScript  
 - Tailwind CSS  
 - ReactJS  
 
@@ -44,38 +32,37 @@ I focus on developing **scalable systems, clean UI, and efficient backend logic*
 - Node.js (Express)  
 
 #### 🗄️ Database
-- CSV (Custom storage system)  
-- MongoDB (Learning)  
-
-#### 🔗 API & Features
-- REST API  
-- Authentication System  
-- Role-based Access Control  
-- Shopping Cart & Orders  
-
-#### 🛠️ Tools
-- Git & GitHub  
-- Pydroid 3  
-- VS Code  
+- CSV (custom system)  
+- MongoDB (learning)  
 
 ---
 
-### 🧰 Tech Icons
+### 🧩 Languages
 
 <p align="left">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60"/>
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="60"/>
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60"/>
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60"/>
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="60"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60"/>
+  <img src="https://skillicons.dev/icons?i=js,python,html,css,nodejs" />
 </p>
 
 ---
 
-### 📬 Connect With Me
+### 🛠️ Tools & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
+---
+
+### 📂 Projects
+
+- 🛒 Fruit E-commerce Website  
+- 🔐 Login/Register System + Role (Admin/User)  
+- 📦 Product Management Dashboard  
+- 🎨 UI Animation Web  
+
+---
+
+### 📬 Contact
 
 <p align="left">
   <a href="https://github.com/YOUR_USERNAME">
@@ -85,22 +72,12 @@ I focus on developing **scalable systems, clean UI, and efficient backend logic*
 
 ---
 
-### 📊 GitHub Stats
+### 🎨 Visual
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&layout=compact&theme=radical"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=radical"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&margin-w=10"/>
 </p>
