@@ -2,10 +2,10 @@
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Huy Phan
 </h1>
 
-<h3 align="center">💻 Fullstack Web Developer | Python • JavaScript</h3>
+<h3 align="center">💻 Fullstack Web Developer | Python • JavaScript • TypeScript</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Building+Real+World+Projects;Backend+%2B+Frontend+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Fullstack+Developer;React+%2B+Flask+%2B+NodeJS;Building+Real+World+Projects" />
 </p>
 
 ---
@@ -13,19 +13,20 @@
 ### 🚀 About Me
 
 - 🔥 Passionate about building real-world web applications  
-- ⚡ Strong in both frontend & backend development  
-- 🛒 Developing E-commerce systems (cart, checkout, user system)  
+- ⚡ Strong in frontend & backend development  
+- ⚛️ Working with ReactJS & modern UI  
+- 🛒 Building E-commerce systems (cart, checkout, user system)  
 - 🔐 Authentication & role-based systems (admin / user)  
-- 📈 Continuously learning and improving  
+- 📈 Continuously improving and learning  
 
 ---
 
 ### 🧠 Tech Stack
 
 #### 💻 Frontend
-- HTML5 • CSS3 • JavaScript  
-- Tailwind CSS  
+- HTML5 • CSS3 • JavaScript • TypeScript  
 - ReactJS  
+- Tailwind CSS  
 
 #### ⚙️ Backend
 - Python (Flask)  
@@ -34,16 +35,16 @@
 #### 🗄️ Database
 - MongoDB  
 - MySQL  
-- SQL (basic → advanced queries)  
-- XAMPP (Apache + MySQL local server)  
-- CSV (custom storage system)  
+- SQL  
+- XAMPP  
+- CSV  
 
 ---
 
 ### 🧩 Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,python,html,css,nodejs,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,python,html,css,nodejs,mongodb,mysql" />
 </p>
 
 ---
@@ -63,6 +64,14 @@
 - 🔐 Login/Register System + Role (Admin/User)  
 - 📦 Product Management Dashboard  
 - 🎨 UI Animation Web  
+
+---
+
+### 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=radical&hide_border=true"/>
+</p>
 
 ---
 
