@@ -1,9 +1,12 @@
 <div align="center">
 
-  <!-- Header Banner with Animated Background Theme -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Huy%20Phan&fontSize=50&fontAlign=50&fontAlignY=35&desc=Fullstack%20Web%20Developer%20%7C%20Python%20%E2%80%A2%20JavaScript%20%E2%80%A2%20TypeScript&descAlign=50&descAlignY=65" width="100%" />
+  <!-- Header Banner / Animated Title -->
+  <h1>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+    Hey there, I'm <a href="https://github.com/HuyPhan68080">Huy Phan</a>!
+  </h1>
 
-  <br/>
+  <h3>💻 Fullstack Web Developer | Python • JavaScript • TypeScript</h3>
 
   <!-- Animated Typing SVG -->
   <p align="center">
@@ -142,7 +145,7 @@
 
 <br/>
 
-<!-- Footer Wave Banner -->
+<!-- Subtle Footer Wave Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b26&height=100&section=footer"/>
 </p>
