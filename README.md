@@ -89,8 +89,8 @@
 
 <div align="center">
   <a href="https://github.com/HuyPhan68080">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HuyPhan68080&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuyPhan68080&layout=compact&theme=tokyonight&hide=html,css"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HuyPhan68080&theme=tokyonight"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HuyPhan68080&theme=tokyonight"/>
   </a>
 </div>
 
@@ -98,7 +98,8 @@
 
 <div align="center">
   <a href="https://github.com/HuyPhan68080">
-    <img src="https://streak-stats.demolab.com?user=HuyPhan68080&theme=tokyonight&hide_border=false"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HuyPhan68080&theme=tokyonight"/>
+    <img src="https://streak-stats.demolab.com?user=HuyPhan68080&theme=tokyonight"/>
   </a>
 </div>
 
@@ -106,21 +107,9 @@
 
 <div align="center">
   <a href="https://github.com/HuyPhan68080">
-    <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=HuyPhan68080&theme=tokyo-night"/>
+    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=HuyPhan68080&theme=tokyo-night"/>
   </a>
 </div>
-
-<br/>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/HuyPhan68080">
-    <img src="https://github-profile-trophy.vercel.app/?username=HuyPhan68080&theme=tokyonight&no-frame=false&no-bg=false&margin-w=15"/>
-  </a>
-</p>
 
 <br/>
 
