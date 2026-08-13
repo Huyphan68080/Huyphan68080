@@ -1,17 +1,18 @@
 <div align="center">
 
-  <!-- Header Banner / Animated Typing -->
-  <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hey there, I'm <a href="https://github.com/HuyPhan68080">Huy Phan</a>!</h1>
-  
-  <h3>💻 Fullstack Web Developer | Python • JavaScript • TypeScript</h3>
+  <!-- Header Banner with Animated Background Theme -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Huy%20Phan&fontSize=50&fontAlign=50&fontAlignY=35&desc=Fullstack%20Web%20Developer%20%7C%20Python%20%E2%80%A2%20JavaScript%20%E2%80%A2%20TypeScript&descAlign=50&descAlignY=65" width="100%" />
 
+  <br/>
+
+  <!-- Animated Typing SVG -->
   <p align="center">
     <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&color=00F7FF&center=true&vCenter=true&width=550&lines=Fullstack+Developer;ReactJS+%2B+NodeJS+%2B+Flask;Building+Real-World+Web+Apps;Passion+For+Clean+Code">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&color=00F7FF&center=true&vCenter=true&width=550&lines=Fullstack+Developer;ReactJS+%2B+NodeJS+%2B+Flask;Building+Real-World+Web+Apps;Passion+For+Clean+Code" alt="Typing SVG" />
     </a>
   </p>
 
-  <!-- Quick Badges -->
+  <!-- Quick Status Badges -->
   <p align="center">
     <img src="https://img.shields.io/badge/Focus-Fullstack_Web_Development-00f7ff?style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/Learning-Advanced_System_Architecture-ff007f?style=for-the-badge&logoColor=white" />
@@ -89,6 +90,14 @@
 
 <div align="center">
   <a href="https://github.com/HuyPhan68080">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HuyPhan68080&theme=tokyonight"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/HuyPhan68080">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HuyPhan68080&theme=tokyonight"/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HuyPhan68080&theme=tokyonight"/>
   </a>
@@ -133,6 +142,7 @@
 
 <br/>
 
+<!-- Footer Wave Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer"/>
 </p>
