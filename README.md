@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- Header Banner / Animated Title -->
+  <!-- Header / Animated Title -->
   <h1>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
     Hey there, I'm <a href="https://github.com/HuyPhan68080">Huy Phan</a>!
@@ -10,8 +10,8 @@
 
   <!-- Animated Typing SVG -->
   <p align="center">
-    <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&color=00F7FF&center=true&vCenter=true&width=550&lines=Fullstack+Developer;ReactJS+%2B+NodeJS+%2B+Flask;Building+Real-World+Web+Apps;Passion+For+Clean+Code">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&color=00F7FF&center=true&vCenter=true&width=550&lines=Fullstack+Developer;ReactJS+%2B+NodeJS+%2B+Flask;Building+Real-World+Web+Apps;Passion+For+Clean+Code" alt="Typing SVG" />
+    <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&color=00F7FF&center=true&vCenter=true&width=550&lines=Fullstack+Developer;ReactJS+%E2%80%A2+NodeJS+%E2%80%A2+Flask;Building+Real-World+Web+Apps;Passion+For+Clean+Code">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&color=00F7FF&center=true&vCenter=true&width=550&lines=Fullstack+Developer;ReactJS+%E2%80%A2+NodeJS+%E2%80%A2+Flask;Building+Real-World+Web+Apps;Passion+For+Clean+Code" alt="Typing SVG" />
     </a>
   </p>
 
@@ -111,7 +111,7 @@
 <div align="center">
   <a href="https://github.com/HuyPhan68080">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HuyPhan68080&theme=tokyonight"/>
-    <img src="https://streak-stats.demolab.com?user=HuyPhan68080&theme=tokyonight"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HuyPhan68080&theme=tokyonight"/>
   </a>
 </div>
 
