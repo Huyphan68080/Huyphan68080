@@ -1,122 +1,177 @@
 <div align="center">
 
-<a href="https://github.com/HuyPhan68080">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=HUY%20PHAN&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Building%20things%20that%20actually%20work&descAlignY=62&descSize=16&animation=twinkling&color=0:0f172a,50:111827,100:0e7490" width="100%"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:020617,50:0f172a,100:0e7490&text=HUY%20PHAN&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Fullstack%20Developer%20%2F%2F%20UI%20%2B%20Code%20%2B%20Ideas&descAlignY=62&descSize=17&animation=fadeIn" width="100%"/>
 
 <br>
 
-<a href="https://github.com/HuyPhan68080">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=650&lines=Fullstack+Web+Developer;React+%2B+TypeScript+%2B+Node.js;Sometimes+Python%2C+Always+Curious;Building+UI+that+feels+alive" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2600&pause=900&color=00F7FF&center=true&vCenter=true&width=720&lines=Fullstack+Web+Developer;React+%2B+TypeScript+%2B+Node.js;Building+things+I+would+actually+use;Sometimes+I+write+code.+Sometimes+I+fight+bugs." />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=HuyPhan68080&style=for-the-badge&color=0e7490&label=PROFILE+VIEWS" />
-&nbsp;
-<a href="https://github.com/HuyPhan68080?tab=followers">
-  <img src="https://img.shields.io/github/followers/HuyPhan68080?style=for-the-badge&color=111827&labelColor=0f172a" />
-</a>
-&nbsp;
 <a href="https://github.com/HuyPhan68080">
-  <img src="https://img.shields.io/github/stars/HuyPhan68080?style=for-the-badge&color=111827&labelColor=0f172a" />
+<img src="https://komarev.com/ghpvc/?username=HuyPhan68080&style=flat-square&color=0e7490&label=VISITORS" />
 </a>
+
+  
+
+<a href="https://github.com/HuyPhan68080?tab=followers">
+<img src="https://img.shields.io/github/followers/HuyPhan68080?style=flat-square&label=FOLLOWERS&color=111827&labelColor=020617" />
+</a>
+
+  
+
+<img src="https://img.shields.io/badge/STATUS-BUILDING-00f7ff?style=flat-square&labelColor=020617" />
+
+</div>
+
+<br>
+
+---
+
+## `01 / ABOUT`
+
+```txt
+╭────────────────────────────────────────────────────╮
+│                                                    │
+│  Huy Phan                                           │
+│  Fullstack Web Developer                            │
+│                                                    │
+│  I build websites, APIs and small systems that     │
+│  solve actual problems instead of just looking     │
+│  good in a screenshot.                             │
+│                                                    │
+│  Current obsession                                │
+│  → React / TypeScript                              │
+│  → Node.js / Express                               │
+│  → MongoDB / MySQL                                 │
+│  → UI motion & interaction                          │
+│                                                    │
+╰────────────────────────────────────────────────────╯
+```
+
+I enjoy taking an idea from **“this would be cool”** to something that actually runs.
+
+My favorite part is usually somewhere between designing the interface, connecting the backend, fixing the stupid bug that appeared at 2AM and then making the whole thing look cleaner.
+
+---
+
+## `02 / STACK`
+
+<div align="center">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap&perline=7" />
+
+<br><br>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask&perline=4" />
+
+<br><br>
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=2" />
+
+<br><br>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,powershell,postman&perline=6" />
 
 </div>
 
 ---
 
-## `> whoami`
-
-```txt
-Huy Phan
-─────────────────────────────────────────────
-Role        Fullstack Web Developer
-Focus       Web apps • UI/UX • APIs • Databases
-Frontend    React • TypeScript • Tailwind CSS
-Backend     Node.js • Express • Python • Flask
-Database    MongoDB • MySQL
-Tools       Git • GitHub • VS Code • Figma
-Currently   Learning, building, breaking, fixing
-```
-
-I like building things from scratch and turning rough ideas into websites that are actually usable.
-
-Most of my projects live somewhere between **clean UI**, **real functionality**, and **way too much time spent tweaking tiny details**.
-
----
-
-## `// things I enjoy building`
+## `03 / WHAT I BUILD`
 
 <table>
 <tr>
-<td width="50%">
 
-### ⚡ Interactive Web Apps
+<td width="50%" valign="top">
 
-Dashboards, management systems, authentication, e-commerce and other applications where the UI and backend actually need to work together.
+### 🛒 E-commerce
+
+Full-stack stores with:
+
+* Product management
+* Cart / checkout
+* Authentication
+* Role-based access
+* Admin dashboard
 
 </td>
-<td width="50%">
 
-### 🎨 UI With Personality
+<td width="50%" valign="top">
 
-I enjoy interfaces that feel less like a template and more like a real product — motion, micro-interactions, responsive layouts and visual details.
+### 🔐 Backend Systems
+
+I like building APIs that handle:
+
+* Authentication
+* CRUD
+* Permissions
+* Database logic
+* API integration
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%">
 
-### 🧠 Learning By Building
+<td width="50%" valign="top">
 
-Instead of only reading documentation, I usually learn a technology by throwing it into a project and figuring out why it broke.
+### 🎨 Interactive UI
+
+Not everything needs to be static.
+
+I like:
+
+* Micro interactions
+* Motion
+* Scroll effects
+* Smooth transitions
+* Responsive layouts
 
 </td>
-<td width="50%">
 
-### 🔧 Making Things Better
+<td width="50%" valign="top">
 
-Performance, structure, developer experience and those tiny annoying bugs that somehow take three hours to fix.
+### 🧪 Experiments
+
+Small projects are where I test weird ideas.
+
+Sometimes useful.
+
+Sometimes completely unnecessary.
+
+Usually both.
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## `> tech --list`
+## `04 / FEATURED PROJECTS`
 
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap&perline=7" />
-</p>
-
-### Backend & Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,mongodb,mysql,postman&perline=7" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,powershell&perline=7" />
-</p>
-
----
-
-## `> projects --featured`
+<div align="center">
 
 <table>
+
 <tr>
+
 <td width="50%" valign="top">
 
-### 🛒 E-commerce Platform
+### 🍓 Fruit Store
 
-A full-stack online store with product management, cart flow, checkout and authentication.
+A full-stack e-commerce project focused on a clean shopping experience.
+
+**Stack**
 
 `React` `Tailwind` `Node.js` `MongoDB`
 
@@ -124,123 +179,175 @@ A full-stack online store with product management, cart flow, checkout and authe
 
 <td width="50%" valign="top">
 
-### 🔐 Authentication System
+### 💬 Discord Auto Quests
 
-Role-based authentication with protected routes, permissions and backend API integration.
+Automation-focused project for interacting with Discord quests and tasks.
 
-`React` `Express` `JWT` `MySQL`
+**Stack**
+
+`Node.js` `Web` `Automation`
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
-### 📊 Admin Dashboard
+### 📝 Notes
 
-Product management, inventory, analytics and admin-focused interfaces.
+A modern note application with a focus on fast interactions and simple UX.
 
-`React` `TypeScript` `Flask` `MySQL`
+**Stack**
+
+`React` `TypeScript` `Node.js` `MongoDB`
 
 </td>
 
 <td width="50%" valign="top">
 
-### ✨ Interactive UI Experiments
+### 🌐 UI Experiments
 
-Small experiments focused on animations, transitions, motion and visual interaction.
+Random interfaces, animation experiments and things that probably did not need animation.
+
+**Stack**
 
 `HTML` `CSS` `JavaScript` `Framer Motion`
 
 </td>
+
 </tr>
+
 </table>
+
+</div>
 
 ---
 
-## `> github --stats`
+## `05 / GITHUB`
 
 <div align="center">
 
 <a href="https://github.com/HuyPhan68080">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HuyPhan68080&show_icons=true&hide_border=true&bg_color=00000000&title_color=00F7FF&text_color=94a3b8&icon_color=00F7FF&rank_icon=github" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=HuyPhan68080&show_icons=true&hide_border=true&bg_color=00000000&title_color=00F7FF&text_color=94A3B8&icon_color=00F7FF&rank_icon=github" />
 </a>
 
 <a href="https://github.com/HuyPhan68080">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuyPhan68080&layout=compact&hide_border=true&bg_color=00000000&title_color=00F7FF&text_color=94a3b8&langs_count=8" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuyPhan68080&layout=compact&hide_border=true&bg_color=00000000&title_color=00F7FF&text_color=94A3B8&langs_count=8" />
 </a>
 
 <br><br>
 
 <a href="https://github.com/HuyPhan68080">
-  <img src="https://streak-stats.demolab.com?user=HuyPhan68080&hide_border=true&background=00000000&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&sideLabels=94A3B8&dates=64748B" />
+<img src="https://streak-stats.demolab.com?user=HuyPhan68080&hide_border=true&background=00000000&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&sideLabels=94A3B8&dates=64748B" />
 </a>
 
 </div>
 
 ---
 
-## `> activity --graph`
+## `06 / CONTRIBUTION SNAKE`
+
+<div align="center">
+
+<p>
+
+<img src="https://raw.githubusercontent.com/HuyPhan68080/HuyPhan68080/output/github-contribution-grid-snake-dark.svg" width="95%" />
+
+</p>
+
+<sub>
+The snake eats my contributions.
+</sub>
+
+</div>
+
+---
+
+## `07 / ACTIVITY`
 
 <div align="center">
 
 <a href="https://github.com/HuyPhan68080">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=HuyPhan68080&bg_color=00000000&color=94a3b8&line=00F7FF&point=ffffff&area=true&hide_border=true" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=HuyPhan68080&bg_color=00000000&color=94A3B8&line=00F7FF&point=FFFFFF&area=true&hide_border=true" />
 </a>
 
 </div>
 
 ---
 
-## `> currently`
+## `08 / CURRENTLY`
 
 ```text
-[████████████████████░░]  90%
-
-building      ████████████████████
-learning      █████████████████░░░
-debugging     ████████████████████
-sleeping      █████░░░░░░░░░░░░░░░
+┌──────────────────────────────────────────────┐
+│                                              │
+│  BUILDING   ████████████████████░░░  92%    │
+│  LEARNING   █████████████████░░░░░  78%    │
+│  DEBUGGING  ████████████████████░░░  95%    │
+│  SLEEPING   █████░░░░░░░░░░░░░░░░░  24%    │
+│                                              │
+└──────────────────────────────────────────────┘
 ```
 
-> `code → break → debug → fix → repeat`
+> `code → test → break → debug → fix → repeat`
 
 ---
 
-## `> terminal --fun`
+## `09 / RANDOM TERMINAL`
 
 ```bash
-$ git status
-
-On branch main
-Your branch is up to date with 'origin/main'.
-
-Changes not staged for commit:
-  modified:   ideas.txt
-  modified:   ui-details.css
-  modified:   "something-that-worked-yesterday.js"
+$ whoami
+huy
 
 $ npm run dev
-
 ✓ server started
 ✓ database connected
-✓ everything looks fine
+✓ frontend loaded
 
-⚠ why is the button 3px lower than yesterday?
+$ git status
+modified: ui.css
+modified: app.tsx
+modified: something-i-should-not-have-touched.js
+
+$ npm run build
+
+✓ build successful
+
+$ sleep
+
+bash: sleep: permission denied
 ```
 
 ---
 
-## `> connect`
+## `10 / LITTLE THINGS`
+
+<div align="center">
+
+```text
+⚡ likes       clean UI
+🎨 likes       animations
+🧩 likes       building from scratch
+🐛 dislikes    bugs that only happen once
+☕ fuel        questionable amounts of caffeine
+🌙 timezone    probably too late
+```
+
+</div>
+
+---
+
+## `11 / FIND ME`
 
 <div align="center">
 
 <a href="https://github.com/HuyPhan68080">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-HuyPhan68080-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://github.com/HuyPhan68080?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-0f172a?style=for-the-badge&logo=git&logoColor=00F7FF" />
+<img src="https://img.shields.io/badge/Projects-0f172a?style=for-the-badge&logo=vercel&logoColor=00F7FF" />
 </a>
 
 </div>
@@ -249,16 +356,8 @@ $ npm run dev
 
 <div align="center">
 
-### `Thanks for stopping by.`
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f172a,50:111827,100:020617&section=footer" width="100%"/>
 
-<sub>Built with code, caffeine and an unreasonable amount of CSS tweaking.</sub>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e7490,50:111827,100:0f172a&height=100&section=footer" width="100%" />
+<sub>made with code, curiosity and too much time spent adjusting pixels</sub>
 
 </div>
